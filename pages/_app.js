@@ -16,7 +16,7 @@ export default function MyApp({ pageProps, Component }) {
     if (jssStyles) {
       jssStyles.parentElement.removeChild(jssStyles);
     }
-    TagManager.initialize({ gtmId: 'GTM-M3R58XQ' });
+    TagManager.initialize({ gtmId: 'GTM-KSZ6DHM' });
   }, []);
 
   return (

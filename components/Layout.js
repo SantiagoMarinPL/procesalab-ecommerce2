@@ -51,6 +51,7 @@ export default function Layout({
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
+        <script src="https://www.googleoptimize.com/optimize.js?id=OPT-T7KDVG4"></script>
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
